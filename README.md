@@ -1,6 +1,6 @@
 # :wave: **Hi! Im Sammy**
 
-![Profile views](https://gpvc.arturio.dev/SammCheese) ![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FSamm_Cheese)
+[![Profile views](https://gpvc.arturio.dev/SammCheese)](https://github.com/SammCheese) [![Twitter](https://img.shields.io/twitter/follow/Samm_Cheese?style=social)](https://twitter.com/Samm_Cheese)
 
 - ***I sometimes code, mostly in sourcepawn but im aiming for more!***
 
