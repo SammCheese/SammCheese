@@ -3,6 +3,6 @@
 
 ***I sometimes code, mostly Powercord Plugins though*** 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SammCheese&show_icons=true" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammCheese&layout=compact" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SammCheese&show_icons=true" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammCheese&layout=compact" height="200px">
 </p>
