@@ -8,7 +8,7 @@ I'm a Developer specializing in Javascript.
 <ins>Websites</ins>
 - [My Website](https://sammcheese.net)
 ###
-<ins>Discord Clientmods ([Powercord](https://powercord.dev) & Astra)</ins>
+<ins>Discord Clientmods ([Replugged](https://replugged.dev) & Astra)</ins>
 - [Powercord Docs](https://github.com/SammCheese/Powercord-Docs)
 - [Invisible Chat](https://github.com/SammCheese/invisible-chat)
 - [Powercord Sauce](https://github.com/SammCheese/powercord-sauce)
