@@ -17,6 +17,7 @@ I'm a Developer specializing in Javascript.
 - [Ethereum Miner](https://github.com/SammCheese/eth-miner)
 - [SimpleDiscordCryptLoader](https://github.com/SammCheese/SimpleDiscordCryptLoader)
 - [AFK On Exit](https://github.com/SammCheese/AFK-on-exit)
+- [Reaction Noise](https://github.com/SammCheese/Reaction-Noise)
 ###
 <ins>Webservers</ins>
 - [Invisible Chat API](https://github.com/SammCheese/InvisibleChat-API)
