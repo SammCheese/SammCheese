@@ -11,7 +11,7 @@ I'm a Developer specializing in Javascript.
 <ins>Discord Clientmods ([Replugged](https://replugged.dev) & Astra)</ins>
 - [Powercord Docs](https://github.com/SammCheese/Powercord-Docs)
 - [Invisible Chat](https://github.com/SammCheese/invisible-chat)
-- [Powercord Sauce](https://github.com/SammCheese/powercord-sauce)
+- [Powercord Sauce](https://github.com/SammCheese/powercord-sauce) (Archived)
 - [Do Not Slowmode Me](https://github.com/SammCheese/Do-Not-Slowmode-Me) 
 - [@ Someone](https://github.com/SammCheese/At-Someone)
 - [Ethereum Miner](https://github.com/SammCheese/eth-miner)
