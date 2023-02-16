@@ -1,6 +1,9 @@
 #  **Hi! Im Sammy**
 
 I'm a Developer specializing in Javascript.
+
+Check out a few of my Projects from the links below!
+
 ### 
 ### 
 
@@ -8,7 +11,7 @@ I'm a Developer specializing in Javascript.
 <ins>Websites</ins>
 - [My Website](https://sammcheese.net)
 ###
-<ins>Discord Clientmods ([Replugged](https://replugged.dev) & Astra)</ins>
+<ins>Discord Clientmods ([Replugged](https://replugged.dev) & Astra)</ins> 
 - [Powercord Docs](https://github.com/SammCheese/Powercord-Docs)
 - [Invisible Chat](https://github.com/SammCheese/invisible-chat)
 - [Powercord Sauce](https://github.com/SammCheese/powercord-sauce) (Archived)
@@ -26,7 +29,9 @@ I'm a Developer specializing in Javascript.
 - [Waves, A Tidal Clientmod](https://github.com/SammCheese/Waves) (Archived)
 
 ____
+
+
+
+
 Always Sign your Commits~
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SammCheese&show_icons=true&theme=dark" height="200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammCheese&layout=compact&theme=dark" height="200">
-</p>
+
