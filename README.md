@@ -21,6 +21,7 @@ Check out a few of my Projects from the links below!
 - [SimpleDiscordCryptLoader](https://github.com/SammCheese/SimpleDiscordCryptLoader)
 - [AFK On Exit](https://github.com/SammCheese/AFK-on-exit)
 - [Reaction Noise](https://github.com/SammCheese/Reaction-Noise)
+- [RepluggedPGP](https://github.com/SammCheese/RepluggedPGP)
 ###
 <ins>Webservers</ins>
 - [Invisible Chat API](https://github.com/SammCheese/InvisibleChat-API)
