@@ -1,6 +1,6 @@
 #  **Hi! Im Sammy**
 
-I'm a Developer specializing in Javascript.
+I'm a Full-stack Developer specializing in JS/React.
 
 Check out a few of my Projects from the links below!
 
