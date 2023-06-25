@@ -11,7 +11,7 @@ Check out a few of my Projects from the links below!
 <ins>Websites</ins>
 - [My Website](https://sammcheese.net)
 ###
-<ins>Discord Clientmods ([Replugged](https://replugged.dev) & Astra)</ins> 
+<ins>Discord Plugins ([Replugged](https://replugged.dev) & Astra)</ins> 
 - [Powercord Docs](https://github.com/SammCheese/Powercord-Docs)
 - [Invisible Chat](https://github.com/SammCheese/invisible-chat)
 - [Powercord Sauce](https://github.com/SammCheese/powercord-sauce) (Archived)
