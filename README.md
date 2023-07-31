@@ -3,7 +3,9 @@
 I'm a Full-stack Developer specializing in React.
 I am the Main UI Developer of [MegaAntiCheat](https://github.com/MegaAntiCheat)
 
-Check out a few of my Projects from the links below!
+If you like what I'm doing, consider Sponsoring 💗 ^^ 
+
+Also check out a few of my Projects from the links below!
 
 ### 
 ### 
