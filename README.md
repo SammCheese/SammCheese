@@ -1,7 +1,6 @@
 #  **Hi! Im Sammy**
 
-I'm a Full-stack Developer specializing in React.
-I am the Main UI Developer of [MegaAntiCheat](https://github.com/MegaAntiCheat)
+I'm a Full-stack Developer specializing in React and the Main UI Developer of [MegaAntiCheat](https://github.com/MegaAntiCheat)
 
 If you like what I'm doing, consider Sponsoring 💗 ^^ 
 
