@@ -1,6 +1,6 @@
 #  **Hi! Im Sammy**
 
-I'm a Full-stack Developer specializing in React and the Main UI Developer of [MegaAntiCheat](https://github.com/MegaAntiCheat)
+I'm a Full-stack Developer specializing in React and the former Main UI Developer of [MegaAntiCheat](https://github.com/MegaAntiCheat)
 
 If you like what I'm doing, consider Sponsoring 💗 ^^ 
 
@@ -25,6 +25,9 @@ Also check out a few of my Projects from the links below!
 - [AFK On Exit](https://github.com/SammCheese/AFK-on-exit)
 - [Reaction Noise](https://github.com/SammCheese/Reaction-Noise)
 - [RepluggedPGP](https://github.com/SammCheese/RepluggedPGP)
+###
+<ins>Balatro Mods</ins>
+- [B's Insanity](https://github.com/SammCheese/BS-Insanity)
 ###
 <ins>Webservers</ins>
 - [Invisible Chat API](https://github.com/SammCheese/InvisibleChat-API)
