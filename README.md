@@ -10,6 +10,11 @@ Also check out a few of my Projects from the links below!
 ### 
 
 ## Main Projects
+
+<ins> NPM Packages </ins>
+- [Mempatch](https://www.npmjs.com/package/mempatch)
+###
+
 <ins>Websites</ins>
 - [MegaAntiCheat-UI](https://github.com/MegaAntiCheat/MegaAntiCheat-UI)
 - [My Website](https://sammcheese.net)
@@ -28,9 +33,6 @@ Also check out a few of my Projects from the links below!
 ###
 <ins>Balatro Mods</ins>
 - [B's Insanity](https://github.com/SammCheese/BS-Insanity)
-###
-<ins>Webservers</ins>
-- [Invisible Chat API](https://github.com/SammCheese/InvisibleChat-API)
 ###
 <ins>Other</ins>
 - [Waves, A Tidal Clientmod](https://github.com/SammCheese/Waves) (Archived)
