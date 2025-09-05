@@ -11,7 +11,8 @@ Also check out a few of my Projects from the links below!
 
 ## Main Projects
 
-<ins> NPM Packages </ins>
+<ins> Rust </ins>
+- [Pwnagotchi-rs](https://github.com/SammCheese/pwnagotchi-rPowercordins> NPM Packages </ins>
 - [Mempatch](https://www.npmjs.com/package/mempatch)
 ###
 
@@ -22,10 +23,8 @@ Also check out a few of my Projects from the links below!
 <ins>Discord Plugins ([Replugged](https://replugged.dev) & Astra)</ins> 
 - [Powercord Docs](https://github.com/SammCheese/Powercord-Docs)
 - [Invisible Chat](https://github.com/SammCheese/invisible-chat)
-- [Powercord Sauce](https://github.com/SammCheese/powercord-sauce) (Archived)
 - [Do Not Slowmode Me](https://github.com/SammCheese/Do-Not-Slowmode-Me) 
 - [@ Someone](https://github.com/SammCheese/At-Someone)
-- [Ethereum Miner](https://github.com/SammCheese/eth-miner)
 - [SimpleDiscordCryptLoader](https://github.com/SammCheese/SimpleDiscordCryptLoader)
 - [AFK On Exit](https://github.com/SammCheese/AFK-on-exit)
 - [Reaction Noise](https://github.com/SammCheese/Reaction-Noise)
