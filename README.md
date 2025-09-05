@@ -12,7 +12,10 @@ Also check out a few of my Projects from the links below!
 ## Main Projects
 
 <ins> Rust </ins>
-- [Pwnagotchi-rs](https://github.com/SammCheese/pwnagotchi-rPowercordins> NPM Packages </ins>
+- [Pwnagotchi-rs](https://github.com/SammCheese/pwnagotchi-rs)
+###
+
+<ins> NPM Packages </ins>
 - [Mempatch](https://www.npmjs.com/package/mempatch)
 ###
 
